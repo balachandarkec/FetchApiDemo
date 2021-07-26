@@ -1,0 +1,23 @@
+.container{
+ background-color: crimson;
+ display: flex;
+ flex-direction: row-reverse;
+ justify-content: space-around;
+ 
+}
+
+.box{
+    background-color: floralwhite;
+    min-width: 100px;
+    
+}
+.box1{
+ background-color:gold;
+ align-self: stretch;
+}
+.box2{
+    background: greenyellow;
+}
+.box3{
+   background-color: darkturquoise; 
+}

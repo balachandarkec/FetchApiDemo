@@ -1,0 +1,19 @@
+
+
+          body{
+            background: url(img/tiles.jpeg);
+          }
+          
+        div{
+            font-family: 'Courier New', Courier, monospace;  
+          }
+          /* #header{
+              border: 2px dotted chocolate;
+          } */
+  
+          .border{
+              border: 2px dotted rgb(1, 1, 19);
+          }
+          .myclass{
+            BACKGROUND-COLOR: burlywood;
+          }
